@@ -1,6 +1,6 @@
 {
     "name": "oaqcy-fixes",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "factorio_version": "1.1",
     "title": "oaqcy-fixes",
     "author": "cygnos",
@@ -12,7 +12,5 @@
 		"(?) space-exploration-postprocess",
         "(?) portals"
     ]
-    
-
 }
 

@@ -7,7 +7,7 @@ if mods["Portals"] then
 data.raw.recipe["portal-gun"].ingredients =  { {"iron-plate", 1} }
 
 -- earlier portals research
-data.raw.technology["portals"].prerequisites = {"concrete"}
+data.raw.technology["portals"].prerequisites = {"logistic-science-pack"}
 data.raw.technology["portals"].unit =
 {
     count = 20,
